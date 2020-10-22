@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\github\michaelkc\HttpToAzureStorage\HttpToAzureStorage" t="IncludeFlat">
+      <e p="HttpToAzureStorage.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\micha\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\micha\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_HttpToAzureStorage.2126091642.00" t="ExcludeRecursive" />
+  </component>
+</project>
